@@ -1,1 +1,1 @@
-INSERT INTO song (title, artist) VALUES ('Playing with Fire', 'Blackpink');
+INSERT INTO song (title, artist) VALUES ('Playing with Fire', 'Blackpink'), ('Love Scenario', 'IKON');
